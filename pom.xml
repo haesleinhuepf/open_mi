@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>de.mpicbg</groupId>
-	<artifactId>openmi</artifactId>
+	<artifactId>openmi_</artifactId>
 	<version>0.1.0</version>
 
 	<name>OpenMI</name>
